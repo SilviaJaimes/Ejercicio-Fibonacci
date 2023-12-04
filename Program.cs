@@ -1,4 +1,14 @@
-﻿while (true)
+﻿/* 
+Reto 1: Fibonacci rusa: 
+    -Escriba un programa que reciba como entrada un número entero n, y entregue como salida el n-
+    ésimo número de Fibonacci.
+    -Escriba un programa que reciba como entrada un número entero e indique si es o no un número
+    de Fibonacci.
+    -Escriba un programa que muestres los m primeros números de Fibonacci, donde m es un número
+    ingresado por el usuario.
+*/
+
+while (true)
 {
     Console.WriteLine("\nFIBONACCI\n");
     Console.WriteLine("1. Programa que reciba como entrada un número entero n, y entregue como salida el n-ésimo número de Fibonacci.");
